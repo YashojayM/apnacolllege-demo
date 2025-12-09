@@ -1,2 +1,3 @@
 # apnacolllege-demo
-First gip repository
+First git repository
+Author - Yashojay Mahapatra
